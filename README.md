@@ -31,3 +31,12 @@ github-health-analyzer/
 ├── health_score.py
 ├── README.md
 ├── .gitignore
+## Example Output
+
+Repository Analysis
+*******************
+
+Repository: psf/requests
+Stars: 52000
+Commits: 10000
+Health Score: 85/100
