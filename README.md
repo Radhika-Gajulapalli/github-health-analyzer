@@ -22,3 +22,12 @@ pip install requests
 
 3. Run the program
 python main.py
+## Project Structure
+
+github-health-analyzer/
+│
+├── main.py
+├── github_api.py
+├── health_score.py
+├── README.md
+├── .gitignore
